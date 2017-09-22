@@ -1,6 +1,6 @@
 # awsomepos
 
-> A Vue.js project(快餐系统 vue2.0+element-ui+vue-router+vuex+axios+express)
+> A Vue.js project(快餐系统 vue2.0+vue-router+vuex+axios+express+element-ui)
 
 ## Build Setup
 
